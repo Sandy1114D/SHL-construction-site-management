@@ -1,6 +1,6 @@
 <!-- Add a Header with Background Image -->
 <div align="center">
-  <img src="https://your-image-url.com/construction-header.png" alt="Construction Dashboard Header Image" width="50%">
+  <img src="https://github.com/Sandy1114D/SHL-construction-site-management/blob/main/images/Screenshot%202023-10-29%20144536.png" alt="Construction Dashboard Header Image" width="50%">
 </div>
 
 <!-- Centered Heading with Custom Font -->
