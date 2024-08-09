@@ -88,6 +88,6 @@
 <!-- Footer with Custom Styling -->
 <div align="center">
   <a href="https://www.dypiemr.ac.in/">
-    <img src="https://github.com/Sandy1114D/SHL-construction-site-management/blob/main/images/Screenshot%202024-08-09%20111839.png" alt="Footer Logo" width="20%">
+    <img src="https://github.com/Sandy1114D/SHL-construction-site-management/blob/main/images/th.jpeg" alt="Footer Logo" width="20%">
   </a>
 </div>
