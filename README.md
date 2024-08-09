@@ -47,7 +47,7 @@
 <!-- Contribution Guidelines with Custom Styling -->
 <h2 style="color: #9B59B6; font-size: 24px;">🤝 Contribution Guidelines</h2>
 
-<p>We welcome contributions to improve the Construction Site Management System Dashboard. Please submit your ideas via [GitHub Issues](https://github.com/yourusername/construction-dashboard/issues).</p>
+<p>We welcome contributions to improve the Construction Site Management System Dashboard. Please submit your ideas via [GitHub Issues](https://github.com/Sandy1114D/construction-dashboard/issues).</p>
 
 ---
 
