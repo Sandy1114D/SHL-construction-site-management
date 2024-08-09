@@ -83,13 +83,12 @@
 
 <!-- Acknowledgments Section with Custom Styling -->
 <h2 align="center" style="color: #27AE60; font-size: 24px;">🙏 Acknowledgments</h2>
-<img src="https://github.com/Sandy1114D/SHL-construction-site-management/blob/main/images/Screenshot%202024-08-09%20111839.png" alt="SHL Dashboard Video" width="30%">
 
 <p align="center">Special thanks to DYPIEMR for their support and data contributions.</p>
 
 <!-- Footer with Custom Styling -->
 <div align="center">
-  <a href="">
+  <a href="https://github.com/Sandy1114D/SHL-construction-site-management/blob/main/images/Screenshot%202024-08-09%20111839.png">
     <img src="https://ineuron.ai/images/ineuron-logo.png" alt="Footer Logo" width="20%">
   </a>
 </div>
