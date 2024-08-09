@@ -77,7 +77,7 @@
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=m87u3V9U-Z8">
-    <img src="https://your-image-url.com/your-video-thumbnail.png" alt="SHL Dashboard Video" width="30%">
+    <img src="https://github.com/Sandy1114D/SHL-construction-site-management/blob/main/images/Screenshot%202024-08-09%20111839.png" alt="SHL Dashboard Video" width="30%">
   </a>
 </div>
 
