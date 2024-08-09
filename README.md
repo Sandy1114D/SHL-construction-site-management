@@ -76,7 +76,7 @@
 <h2 align="center" style="color: #E74C3C; font-size: 24px;">🎬 YouTube Video</h2>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=your-video-link">
+  <a href="https://www.youtube.com/watch?v=m87u3V9U-Z8">
     <img src="https://your-image-url.com/your-video-thumbnail.png" alt="SHL Dashboard Video" width="30%">
   </a>
 </div>
