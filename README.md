@@ -63,11 +63,10 @@
 
 [High-Level Documentation](https://github.com/yourusername/construction-dashboard/blob/main/High%20Level%20Document.pdf)
 
-[Low-Level Documentation](https://github.com/yourusername/construction-dashboard/blob/main/Low%20Level%20Document.pdf)
 
 [Architecture Documentation](https://github.com/yourusername/construction-dashboard/blob/main/Architecture%20Design%20Document.pdf)
 
-[WireFrame](https://github.com/yourusername/construction-dashboard/blob/main/Wireframe%20Document.pdf)
+
 
 [Detail Project Report](https://github.com/yourusername/construction-dashboard/blob/main/Detail%20Project%20Report.pdf)
 </div>
@@ -88,7 +87,7 @@
 
 <!-- Footer with Custom Styling -->
 <div align="center">
-  <a href="https://github.com/Sandy1114D/SHL-construction-site-management/blob/main/images/Screenshot%202024-08-09%20111839.png">
-    <img src="https://ineuron.ai/images/ineuron-logo.png" alt="Footer Logo" width="20%">
+  <a href="https://www.dypiemr.ac.in/">
+    <img src="https://github.com/Sandy1114D/SHL-construction-site-management/blob/main/images/Screenshot%202024-08-09%20111839.png" alt="Footer Logo" width="20%">
   </a>
 </div>
