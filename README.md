@@ -51,58 +51,6 @@
 
 ---
 
-<!-- Add a Header with Background Image -->
-<div align="center">
-  <img src="https://your-image-url.com/shl-header.png" alt="SHL Dashboard Header Image" width="50%">
-</div>
-
-<!-- Centered Heading with Custom Font -->
-<h1 align="center" style="font-family: 'Arial Black', Gadget, sans-serif; font-size: 36px;">SHL Assessment Dashboard</h1>
-
-<!-- Centered Subheading with Custom Styling -->
-<h3 align="center" style="color: #FF5733; font-weight: bold;">Analyze, Evaluate, Succeed</h3>
-
-<!-- Centered Introduction with Custom Background -->
-<p align="center" style="background-color: #F7DC6F; padding: 10px;">A comprehensive dashboard to analyze and evaluate SHL assessment data for better decision-making.</p>
-
-<!-- Features Section with Custom Icons -->
-<h2>🌟 Key Features</h2>
-
-<ul>
-  <li>📊 **Detailed Analysis:** Comprehensive data visualizations and insights.</li>
-  <li>📈 **Performance Tracking:** Monitor assessment performance over time.</li>
-  <li>📝 **Custom Reporting:** Generate detailed reports for individual or group assessments.</li>
-  <li>🔍 **Filter and Search:** Easily filter and search assessment data.</li>
-</ul>
-
-<!-- Data Source Section with Custom Styling -->
-<h2 style="color: #2980B9; font-size: 24px;">📂 Data Source</h2>
-
-<p>SHL assessment data is sourced directly from SHL's platform.</p>
-<p>Geospatial tools are utilized for mapping assessment locations if applicable.</p>
-
-<!-- Technology Stack with Custom Styling -->
-<h2 style="color: #2ECC71; font-size: 24px;">💻 Technology Stack</h2>
-
-<p>**Power BI:** Leverage Power BI for creating dynamic and real-time dashboards.</p>
-<p>**Data Integration:** Integrate data directly from SHL's assessment platform.</p>
-<p>**Reporting Tools:** Utilize advanced reporting tools to create custom reports.</p>
-
-<!-- Usage Instructions with Custom Styling -->
-<h2 style="color: #E74C3C; font-size: 24px;">📝 How to Use</h2>
-
-<ol>
-  <li>Download the latest version of the SHL Assessment Dashboard from the [Releases](https://app.fabric.microsoft.com/links/your-link) section.</li>
-  <li>Open the dashboard using Power BI.</li>
-  <li>Analyze assessment results, track performance, and generate reports.</li>
-</ol>
-
-<!-- Contribution Guidelines with Custom Styling -->
-<h2 style="color: #9B59B6; font-size: 24px;">🤝 Contribution Guidelines</h2>
-
-<p>Your contributions to enhance the SHL Assessment Dashboard are welcomed. Submit your suggestions via [GitHub Issues](https://github.com/yourusername/shl-dashboard/issues).</p>
-
----
 
 <!-- Contact Section with Custom Styling -->
 <h2 style="color: #E67E22; font-size: 24px;">📧 Contact</h2>
