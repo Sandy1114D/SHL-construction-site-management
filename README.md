@@ -88,7 +88,7 @@
 
 <!-- Footer with Custom Styling -->
 <div align="center">
-  <a href="https://ineuron.ai/">
+  <a href="">
     <img src="https://ineuron.ai/images/ineuron-logo.png" alt="Footer Logo" width="20%">
   </a>
 </div>
